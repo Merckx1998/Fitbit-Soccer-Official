@@ -1,3 +1,3 @@
 <svg class="background">
-  <text id="demotext" x="50%" y="10%+15">22:00</text>
+  <text id="game-time-clock" x="50%" y="10%+15">22:00</text>
 </svg>

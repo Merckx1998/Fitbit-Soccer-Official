@@ -4,8 +4,10 @@
     "appType": "app",
     "appDisplayName": "Soccer Official",
     "iconFile": "resources/icon.png",
-    "wipeColor": "#8bc34a",
-    "requestedPermissions": [],
+    "wipeColor": "#607d8b",
+    "requestedPermissions": [
+      "run_background"
+    ],
     "buildTargets": [
       "higgs",
       "meson"
