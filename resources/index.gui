@@ -1,3 +1,11 @@
 <svg class="background">
-  <text id="game-time-clock" x="50%" y="10%+15">22:00</text>
+  <rect id="gt-rect"><text id="game-time-clock" x="50%" y="10%+15">22:00</text></rect>
+
+  <text class="team" id="home" x="10%" y="30%">HOME</text>
+  <text class="team" id="away" x="63%" y="30%">AWAY</text>
+
+  <text class="score" id="home-score" x="22%" y="50%">0</text>
+  <text class="score" id="away-score" x="75%" y="50%">0</text>
+
+  
 </svg>
