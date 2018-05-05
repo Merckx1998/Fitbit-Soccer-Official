@@ -1,0 +1,19 @@
+{
+  "fitbit": {
+    "appUUID": "dc86571a-f3ca-400d-8e27-55084b58458b",
+    "appType": "app",
+    "appDisplayName": "Soccer Official",
+    "iconFile": "resources/icon.png",
+    "wipeColor": "#8bc34a",
+    "requestedPermissions": [],
+    "buildTargets": [
+      "higgs",
+      "meson"
+    ],
+    "i18n": {
+      "en": {
+        "name": "Soccer Official"
+      }
+    }
+  }
+}
